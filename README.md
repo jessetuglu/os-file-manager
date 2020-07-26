@@ -8,12 +8,7 @@
   <p align="center">
     This program sorts a messy folder by organizing files in subfolders based on file type.
     <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/jessetuglu/os-file-manager/issues">Report Bug or Request Feature</a>
   </p>
 </p>
 
@@ -27,3 +22,6 @@ Please import the following packages to use this program:
 `os`
 <br>
 `pathlib/Path`
+
+### Next Steps
+Build this out into a proper application. Train manager on individual frequent file types and create custom folder names based on these.
