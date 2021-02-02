@@ -1,8 +1,3 @@
-### Prerequisites
+## Run
 
-Please import the following packages to use this program:
-<br>
-`os`
-<br>
-`pathlib/Path`
-\\
+Enter directory name into create_folders()
